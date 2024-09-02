@@ -35,7 +35,7 @@ I utilize a variety of technologies in my *Personal Portfolio* project, includin
 
 # License 📄
 
-The project is available as open source under the terms of the [MIT License]().
+The project is available as open source under the terms of the [MIT License](https://github.com/BSKalsi0/Personal-Portfolio-Website/blob/main/LICENSE).
 
 # Contact 📬
 For any inquiries, feedback, or collaboration opportunities, please feel free to reach out to me through my [email](balwindersinghkalsi0@gmail.com) or [LinkedIn](https://www.linkedin.com/in/balwindersinghkalsi/).
