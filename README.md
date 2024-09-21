@@ -28,6 +28,7 @@ I utilize a variety of technologies in my *Personal Portfolio* project, includin
 - HTML
 - CSS
 - JavaScript
+- Web Design
 - Visual Studio Code
 - Git
 - Github
